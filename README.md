@@ -1,7 +1,18 @@
-# gmc-edabit-points
+# Edabit Problem-Solving Challenge
 
-The points collected while doing tasks:
+## Objective
 
-![Points Collected](points.png)
+Practice JavaScript problem-solving by completing challenges on Edabit and collecting points across different difficulty levels.
+
+## Progress
+
+- Easy challenges: Completed
+- Medium challenges: Completed
+- Hard challenges: Completed
+- Total points: **555 XP**
+
+## Screenshot
+
+![Edabit Progress](points.png)
 
 Profile: https://edabit.com/user/GXAfoJsxxXpJ52z7j
